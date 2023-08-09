@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Githma Senevirathne</h1>
-<h3 align="center">20-year-old explorer from Sri Lanka, on a thrilling journey into the captivating world of coding.Let's share this adventure together 🚀</h3>
+<h3 align="center"> 20-year-old explorer from Sri Lanka, on a thrilling journey into the captivating world of coding.Let's share this adventure together 🚀</h3>
 
 - 📫 How to reach me **Githmaz1@gmail.com**
 
