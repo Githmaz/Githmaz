@@ -5,7 +5,7 @@
 
   
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWcxMWc2N3hydnE3bnQ0cHAzdWV0ZDhybHRkaDBidHZhZDN6azM2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHmsWjXHZ8t4wyXwa3/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FucTBwdjFkODZ5a2J3OW42Zzd4N21jdnIyd3J6dGd5aHppNDNjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yPhv3Vt7txbSKSn2rg/giphy.gif">
 
 
 - 📫 How to reach me **Githmaz1@gmail.com**
