@@ -5,7 +5,7 @@
 
   
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FucTBwdjFkODZ5a2J3OW42Zzd4N21jdnIyd3J6dGd5aHppNDNjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yPhv3Vt7txbSKSn2rg/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/9kmgcOxlZvj9d2NRv8/giphy.gif">
 
 
 - 📫 How to reach me **Githmaz1@gmail.com**
