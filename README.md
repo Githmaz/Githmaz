@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm Githma Senevirathne</h1>
-<h3 align="center">20-year-old explorer from Sri Lanka, on a thrilling journey into the captivating world of coding. Let's share this adventure together 🚀</h3>
-<img align="right"  width="400" src="https://i.gifer.com/WZQJ.gif">
-- 📫 How to reach me **Githmaz1@gmail.com**
 
+
+<h3 align="center">20-year-old explorer from Sri Lanka, on a thrilling journey into the captivating world of coding. Let's share this adventure together 🚀</h3>
+
+  
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWcxMWc2N3hydnE3bnQ0cHAzdWV0ZDhybHRkaDBidHZhZDN6azM2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHmsWjXHZ8t4wyXwa3/giphy.gif">
+
+
+- 📫 How to reach me **Githmaz1@gmail.com**
+<br>
 <h3 align="left"> ♾️ Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/githma-senevirathne-396152283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="githma-senevirathne-396152283" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/githmaz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="githmaz1" height="30" width="40" /></a>
 <a href="https://discord.gg/zandarug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zandarug" height="30" width="40" /></a>
 </p>
+<br>
 
 <h3 align="left"> 🧰 Languages and Tools:</h3>
 <p align="left"> 
