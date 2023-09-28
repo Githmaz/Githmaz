@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 400px;">Hi 👋, I'm Githma Senevirathne</div>
+<h1 align="center" style="font-size: 400px;">Hi 👋, I'm Githma Senevirathne</h1>
 
 
 
