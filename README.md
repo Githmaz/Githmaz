@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">20-year-old explorer from Sri Lanka, on a thrilling journey into the captivating world of coding. Let's share this adventure together 🚀</h3>
+<h3 align="center">Capturing life's moments through photography, conquering digital realms as a passionate gamer, and falling in love with the art of software engineering. 📷🎮💻</h3>
 
   
 
