@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Capturing life's moments through photography📷, conquering digital realms as a passionate gamer, and falling in love with the art of software engineering. 📷🎮💻</h3>
+<h3 align="center">Capturing life's moments through photography, conquering digital realms as a passionate gamer, and falling in love with the art of software engineering. 📷🎮💻</h3>
 
   
 
