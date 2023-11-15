@@ -1,25 +1,23 @@
 <h1 align="center" style="font-size: 400px;">Heyyy 👋, I'm Githma Senevirathne</h1>
-
-
-
 <h3 align="center">Capturing life's moments through photography, conquering digital realms as a passionate gamer, and falling in love with the art of software engineering. 📷🎮💻</h3>
-
-  
-
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/9kmgcOxlZvj9d2NRv8/giphy.gif">
-
-
-- 📫 How to reach me **Githmaz1@gmail.com**
 <br>
-<h3 align="left"> ♾️ Connect with me:</h3>
+- 📫 How to reach me **Githmaz1@gmail.com**
+<br><br><br>
+
+## ♾️ Connect with me:
+
 <p align="left">
-<a href="https://linkedin.com/in/githma-senevirathne-396152283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="githma-senevirathne-396152283" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/githmaz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="githmaz1" height="30" width="40" /></a>
-<a href="https://discord.gg/zandarug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zandarug" height="30" width="40" /></a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/githma-senevirathne-396152283)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/githmaz1)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zandarug)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Githmaz1@gmail.com)
 </p>
 <br>
 
-<h3 align="left"> 🧰 Languages and Tools:</h3>
+
+## 🧰 Languages and Tools:
 <section align="left"> 
   
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +33,4 @@
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-
-
-
 </section>
