@@ -2,7 +2,7 @@
 <h3 align="center">Capturing life's moments through photography, conquering digital realms as a passionate gamer, and falling in love with the art of software engineering. 📷🎮💻</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/9kmgcOxlZvj9d2NRv8/giphy.gif">
 <br>
-- 📫 How to reach me **Githmaz1@gmail.com**
+- 📫 How to reach me: **Githmaz1@gmail.com**
 <br><br><br>
 
 ## ♾️ Connect with me:
@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/githma-senevirathne-396152283)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/githmaz1)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zandarug)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Githmaz1@gmail.com)
 </p>
 <br>
 
