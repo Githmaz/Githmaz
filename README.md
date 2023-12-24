@@ -2,7 +2,7 @@
 <h3 align="center">Capturing life's moments through photography, conquering digital realms as a passionate gamer, and falling in love with the art of software engineering. 📷🎮💻</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/9kmgcOxlZvj9d2NRv8/giphy.gif">
 <br>
-- 📫 How to reach me: **Githmaz1@gmail.com**
+- 📫 Email : Githmaz1@gmail.com 
 <br><br><br>
 
 ## ♾️ Connect with me:
