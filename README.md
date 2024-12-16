@@ -1,4 +1,3 @@
-<h1 align="center" style="font-size: 400px;">Heyyy 👋, I'm Githma Senevirathne</h1>
 <h3 align="center">Capturing life's moments through photography, conquering digital realms as a passionate gamer, and falling in love with the art of software engineering. 📷🎮💻</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/9kmgcOxlZvj9d2NRv8/giphy.gif">
 <br>
